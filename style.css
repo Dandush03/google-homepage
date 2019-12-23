@@ -1,3 +1,25 @@
+.header-grid{
+    margin: 10px;
+    float: right;
+}
+
+.header-buttons{
+    border-style: none;
+    color: black;
+    background-color: transparent;
+    font-size: small;
+    margin: 10px;
+}
+
+.header-grid a:link{
+    text-decoration: none;
+}
+
+.header-grid a:hover{
+    text-decoration: black;
+    text-decoration: underline;
+}
+
 .div-body {
     margin: auto;
     width: auto;
@@ -52,9 +74,8 @@
     margin: 3px;
 }
 
-a:link{
+.preguntas-div a:link{
     text-decoration: none;
-    color: mediumblue;
 }
 
 
