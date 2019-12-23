@@ -1,12 +1,60 @@
-.test {
-    background-color: red;
-}
-.form-inline {
-    
-}
-
 .div-body {
     margin: auto;
     width: auto;
+    font-family: Arial, sans-serif;
     
 }
+
+.main-grid{
+    display: table;
+    width: 100%;
+}
+.google-form{
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+
+}
+
+.search-div{
+    display: inline;
+    padding: 20px;
+    margin: 10px;
+}
+
+.search-input{
+    width: 527px;
+    border-radius: 30px;
+    height: 40px;
+    padding-left: 30px;
+    border-style: solid;
+}
+
+.google-buttons-div {
+    padding-bottom: 20px;
+    margin-top: 30px;
+}
+
+.google-buttons-input{
+    margin: 3px;
+    color: #5F6368;
+    border-radius: 5px;
+    height: 40px;
+    border-style: solid;
+}
+
+.preguntas-div{
+    font-size: small;
+    margin-bottom: 40px;
+}
+
+.preguntas-p{
+    margin: 3px;
+}
+
+a:link{
+    text-decoration: none;
+    color: mediumblue;
+}
+
+
