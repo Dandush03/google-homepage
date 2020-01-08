@@ -1,3 +1,35 @@
+.header-grid{
+    margin: 10px;
+    float: right;
+    margin-right: 20px;
+}
+
+.header-buttons{
+    border-style: none;
+    color: black;
+    background-color: transparent;
+    font-size: small;
+    margin: 10px;
+}
+
+.header-loggin{
+    color: white;
+    background-color: rgb(77, 136, 245);
+    padding: 7px 10px 7px 10px;
+    font-size: small;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+}
+
+.header-grid a:link{
+    text-decoration: none;
+}
+
+.header-grid a:hover{
+    text-decoration: black;
+    text-decoration: underline;
+}
+
 .div-body {
     margin: auto;
     width: auto;
@@ -50,11 +82,11 @@
 
 .preguntas-p{
     margin: 3px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
-a:link{
+.preguntas-div a:link{
     text-decoration: none;
-    color: mediumblue;
 }
 
 
