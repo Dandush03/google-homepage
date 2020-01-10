@@ -1,3 +1,8 @@
+body{
+    min-width: 631px;
+    min-height: 311px;
+}
+
 .header-grid{
     margin: 10px;
     text-align: right;
@@ -141,8 +146,15 @@
 
 .footer-div{
     position: absolute;
-    width: 99.5vw;
-    bottom: 0px;
+    width: 100%;
+    bottom: 1%;
+    left: 0%;
+    min-width: 631px;
+}
+
+.footer-wrap{
+    position: relative;
+    bottom: 1%;
 }
 
 .google-footer{
