@@ -63,6 +63,23 @@
     box-shadow: none;
     border-color: #dfe1e5;
     border-width: 1px;
+    display: inline;
+}
+
+.img-voice{
+    display: inline;
+}
+
+.img-voice input{
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/e/e8/Google_mic.svg);
+    background-repeat: no-repeat;
+    background-position: 0px 0px;
+    border: none;
+    cursor: pointer;
+    height: 24px;
+    vertical-align: middle;
+    background-color: transparent;
+}
 }
 
 .search-div:hover{
